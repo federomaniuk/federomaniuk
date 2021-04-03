@@ -1,8 +1,8 @@
 <img align="center" src="githubHeader.png" alt="federomaniuk" />
 
-## Hello there!
+# Hello there!
 
-### Follow me
+## Follow me
 <a href="https://www.linkedin.com/in/federoma"> 
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="federomaniuk" />
 </a>
@@ -11,14 +11,14 @@
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="federomaniuk" />
 </a>
 
-### Workspace
+## Workspace
 <p>
 <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="federomaniuk" />
 <img align="center" src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="I5" />
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
-### Skills
+## Skills
 <p>
 <img align="center" src="https://img.shields.io/badge/illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"" alt="Illustrator" />
 <img align="center" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
@@ -41,7 +41,7 @@
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" />
 </p>
 
-### Currently Learning
+## Currently Learning
 <p>
 <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" />
@@ -49,10 +49,13 @@
 <img align="center" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-### Hobby
+## Hobbies
+<p>
+<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 <a href="https://steamcommunity.com/id/FedeRoma/"> 
   <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" />
 </a>
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federomaniuk&langs_count=8)](https://github.com/federomaniuk/github-readme-stats) -->
 
 
