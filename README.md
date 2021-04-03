@@ -12,10 +12,11 @@
 </a>
 
 ### Workspace
+<p>
 <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="federomaniuk" />
 <img align="center" src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="I5" />
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-
+</p>
 
 ### Skills
 <p>
