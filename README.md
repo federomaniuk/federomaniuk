@@ -2,7 +2,12 @@
 
 # Hello there!
 
-## Follow me
+## 📚 Education
+✏️ Information Systems Engineering
+
+🎓 Electronic Technician
+
+## 📱 Follow me
 <a href="https://www.linkedin.com/in/federoma"> 
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="federomaniuk" />
 </a>
@@ -11,19 +16,22 @@
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="federomaniuk" />
 </a>
 
-## Workspace
+## 💻 Workspace
 <p>
 <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="federomaniuk" />
 <img align="center" src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="I5" />
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
-## Skills
-<p>
+## 🚀 Skills
+### 🎨 Design
+<p> 
 <img align="center" src="https://img.shields.io/badge/illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"" alt="Illustrator" />
 <img align="center" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
 <img align="center" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/>
 </p>
+
+### 💻 Development
 <p>
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VUE" />
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -41,7 +49,7 @@
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" />
 </p>
 
-## Currently Learning
+## 📖 Currently Learning
 <p>
 <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" />
@@ -49,7 +57,7 @@
 <img align="center" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-## Hobbies
+## 🕹 Hobbies
 <p>
 <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 <a href="https://steamcommunity.com/id/FedeRoma/"> 
